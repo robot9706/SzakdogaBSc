@@ -1,0 +1,19 @@
+{
+	"endpoint": {
+		"ip": "localhost",
+		"port": 4000
+	},
+	"database": {
+		"path": "mongodb://localhost:27017/",
+		"name": "cars"
+	},
+	"paths": {
+		"log": "logs"
+	},
+	"route": {
+		"driver_arrive_distance": "30 m",
+		"destination_distance": "30 m",
+		"price_per_km": "50"
+	},
+	"gmaps_api": ""
+}
